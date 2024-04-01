@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a 16-year-old passionate about coding and eage
 
 ## Learning Resources
 
-I'm constantly expanding my programming knowledge, and some of my favorite learning resources include [GeeksforGeeks](https://geeksforgeeks.org), [W3Scholls](https://w3schools.com), [YouTube](https://youtube.com).
+I'm constantly expanding my programming knowledge, and some of my favorite learning resources include [GeeksforGeeks](https://geeksforgeeks.org), [W3Schools](https://w3schools.com), [YouTube](https://youtube.com).
 
 ## Let's Connect!
 
