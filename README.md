@@ -1,18 +1,106 @@
-# Hello, I'm Lokesh Jaglan! 👋
+# Hi, I'm Lokesh Jaglan 👋
 
-Welcome to my GitHub profile! I'm a 16-year-old passionate about coding and eager to embark on a journey in the world of technology. While I'm just getting started, I'm excited to learn, experiment, and collaborate with fellow developers.
+Full-Stack Software Developer passionate about building scalable web applications, backend systems, and AI-powered products.
 
-## About Me
+## 🚀 About Me
 
-- 🌱 Currently learning: Python Programming, Web Development
-- 💼 Future goals: DSA with Python, MERN
-- 📫 How to reach me: [lokeshjaglan01@gmail.com](mailto:lokeshjaglan@gmail.com)
+- 💻 Full-Stack Developer with 2+ years of hands-on development experience
+- 🔭 Currently building AI-powered applications and SaaS products
+- 🌱 Exploring System Design, Distributed Systems, WebSockets, BullMQ, and Cloud Infrastructure
+- ⚡ Interested in AI, Automation, Cybersecurity, and Modern Web Technologies
+- 🎯 Goal: Build products used by millions of people
+- 📍 Panipat, Haryana, India
 
-## Learning Resources
+---
 
-I'm constantly expanding my programming knowledge, and some of my favorite learning resources include [GeeksforGeeks](https://geeksforgeeks.org), [W3Schools](https://w3schools.com), [YouTube](https://youtube.com).
+## 🛠️ Tech Stack
 
-## Let's Connect!
+### Frontend
+- React.js
+- Next.js
+- TypeScript
+- JavaScript
+- Tailwind CSS
+- ShadCN UI
+- HTML5
+- CSS3
 
-Although I'm just starting out and don't have any projects yet, I'm eager to connect with other developers, learn from their experiences, and collaborate on exciting projects. Whether you're a seasoned developer or just starting out like me, feel free to reach out and let's learn together!
+### Backend
+- Node.js
+- Express.js
+- NestJS
+- Django
 
+### Databases
+- PostgreSQL
+- MongoDB
+- MySQL
+- Prisma ORM
+
+### DevOps & Tools
+- Docker
+- Git
+- GitHub
+- Postman
+- Vercel
+- Render
+- Linux
+
+### Programming Languages
+- TypeScript
+- JavaScript
+- Python
+- Java
+- Rust
+- C
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 Vortex
+AI-powered platform that allows users to connect their own AI API keys and work with multiple AI models.
+
+**Features**
+- Gemini Integration
+- OpenAI Support
+- Claude Support
+- Grok Support
+- Customizable AI Workspace
+- Modern Chat Interface
+
+---
+
+### 📱 AI Social Media Automation Platform
+
+An AI-powered platform that automates content publishing through prompt-based workflows.
+
+**Built With**
+- React.js
+- Node.js
+- MySQL
+- Tailwind CSS
+
+---
+
+### 🎓 Student Management System
+
+A complete student management platform with:
+
+- Attendance Tracking
+- Geo-location Verification
+- Role-Based Authentication
+- Announcements System
+- Document Sharing
+- Real-Time Monitoring
+
+---
+
+## 📊 Current Focus
+
+```txt
+Backend Architecture    ██████████████░░░░ 80%
+System Design           ███████████░░░░░░ 65%
+AI Integration          ██████████████░░░░ 80%
+Cybersecurity           ██████████░░░░░░░ 60%
+DevOps & Cloud          █████████░░░░░░░░ 55%
