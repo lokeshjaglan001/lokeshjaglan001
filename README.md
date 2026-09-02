@@ -4,7 +4,7 @@ Full-Stack Software Developer passionate about building scalable web application
 
 ## 🚀 About Me
 
-- 💻 Full-Stack Developer with 2+ years of hands-on development experience
+- 💻 Full-Stack Developer with 4+ years of hands-on development experience
 - 🔭 Currently building AI-powered applications and SaaS products
 - 🌱 Exploring System Design, Distributed Systems, WebSockets, BullMQ, and Cloud Infrastructure
 - ⚡ Interested in AI, Automation, Cybersecurity, and Modern Web Technologies
