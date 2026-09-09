@@ -95,13 +95,11 @@ A complete student management platform built for real institutional use.
 
 | Skill | Progress |
 |---|---|
-| Backend Architecture | ![80%](https://progress-bar.dev/80?scale=100&width=200&color=2E9EF7&suffix=%20) |
-| AI Integration | ![80%](https://progress-bar.dev/80?scale=100&width=200&color=2E9EF7&suffix=%20) |
-| System Design | ![65%](https://progress-bar.dev/65?scale=100&width=200&color=2E9EF7&suffix=%20) |
-| Cybersecurity | ![60%](https://progress-bar.dev/60?scale=100&width=200&color=2E9EF7&suffix=%20) |
-| DevOps & Cloud | ![55%](https://progress-bar.dev/55?scale=100&width=200&color=2E9EF7&suffix=%20) |
- 
----
+| Backend Architecture | `████████████████░░░░` 80% |
+| AI Integration | `████████████████░░░░` 80% |
+| System Design | `█████████████░░░░░░░` 65% |
+| Cybersecurity | `████████████░░░░░░░░` 60% |
+| DevOps & Cloud | `███████████░░░░░░░░░` 55% |
 
 ---
 
