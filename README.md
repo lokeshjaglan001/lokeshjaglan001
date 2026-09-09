@@ -113,8 +113,8 @@ A complete student management platform built for real institutional use.
 I'm always open to interesting conversations, collaborations, and opportunities to build something meaningful.
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/lokesh-jaglan"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:lokeshjaglan01@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
-<p align="center"><i>⭐️ From <a href="https://github.com/YOUR-USERNAME">Lokesh Jaglan</a></i></p>
+<p align="center"><i>⭐️ From <a href="https://github.com/lokeshjaglan001">Lokesh Jaglan</a></i></p>
