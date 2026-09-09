@@ -105,7 +105,7 @@ DevOps & Cloud          ███████████░░░░░░░�
 ## 📈 GitHub Stats
 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=lokeshjaglan001&theme=tokyonight&hide_border=true" /> </p> 
----
+
 
 ## 🤝 Let's Connect
 
